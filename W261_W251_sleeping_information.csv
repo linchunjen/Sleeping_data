@@ -1,4 +1,4 @@
-Day,W251MinutesAsleep,W261MinutesAsleep,W251MinutesAwake,W261MinutesAwake,W251MinutesREMSleep,W261MinutesREMSleep,W251MinutesLight Sleep,W261MinutesLight Sleep,W251MinutesDeep Sleep,W261MinutesDeep Sleep
+Day,W251MinutesAsleep,W261MinutesAsleep,W251MinutesAwake,W261MinutesAwake,W251MinutesREMSleep,W261MinutesREMSleep,W251MinutesLightSleep,W261MinutesLightSleep,W251MinutesDeepSleep,W261MinutesDeepSleep
 1,343,304,40,50,99,50,200,200,44,54
 2,346,347,53,49,78,77,237,243,31,27
 3,375,278,42,37,53,72,301,159,21,47
